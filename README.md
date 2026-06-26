@@ -1,5 +1,5 @@
 # Python-Calculator-
-Simple Python Calculator | Basic arithmetic operations using Python
+# Simple Python Calculator | Basic arithmetic operations using Python
 
 # Simple Calculator
 
