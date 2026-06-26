@@ -1,41 +1,23 @@
-<img width="997" height="983" alt="1000103293" src="https://github.com/user-attachments/assets/0dbe560d-9c38-41ad-bc45-99194880e448" />
-# Python-Calculator-
-# Simple Python Calculator | Basic arithmetic operations using Python
+# 🧠 Python Calculator Project
 
-# Simple Calculator
+A simple calculator built using Python that performs basic arithmetic operations.
 
-# Input two numbers
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+## 📌 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Input validation
+- Error handling (division by zero)
 
-# Input operation
-print("Choose an operation:")
-print("1. Addition (+)")
-print("2. Subtraction (-)")
-print("3. Multiplication (*)")
-print("4. Division (/)")
+## 🚀 Tech Used
+- Python
 
-choice = input("Enter your choice (1/2/3/4): ")
+## 🎯 Purpose
+This project was built to strengthen Python fundamentals and improve logical thinking.
 
-# Perform calculation
-if choice == "1":
-    result = num1 + num2
-    print("Result =", result)
+## 👨‍💻 Author
+Student Developer
 
-elif choice == "2":
-    result = num1 - num2
-    print("Result =", result)
-
-elif choice == "3":
-    result = num1 * num2
-    print("Result =", result)
-
-elif choice == "4":
-    if num2 != 0:
-        result = num1 / num2
-        print("Result =", result)
-    else:
-        print("Error: Division by zero is not allowed.")
-
-else:
-    print("Invalid choice!")
+## Screenshot 
+<img width="997" height="983" alt="1000103293" src="https://github.com/user-attachments/assets/8b1ca527-153a-42bf-b2b6-43174571b745" />
