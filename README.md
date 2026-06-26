@@ -17,7 +17,7 @@ A simple calculator built using Python that performs basic arithmetic operations
 This project was built to strengthen Python fundamentals and improve logical thinking.
 
 ## 👨‍💻 Author
-Student Developer
+Shivani Mishra 
 
 ## Screenshot 
 <img width="997" height="983" alt="1000103293" src="https://github.com/user-attachments/assets/8b1ca527-153a-42bf-b2b6-43174571b745" />
